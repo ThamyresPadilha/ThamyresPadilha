@@ -1,4 +1,5 @@
-Olá, seja bem-vindo(a) ao meu perfil! 👋
+## Olá, eu sou a Thamyres Padilha
+seja bem-vindo(a) ao meu perfil! 👋
 
 Sou uma desenvolvedora em formação, focado em Ciência de Dados e análise de dados.
 
