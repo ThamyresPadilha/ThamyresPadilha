@@ -20,12 +20,10 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-        with:
-          github_user_name: ${{ github.repository_owner }}
+         github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#9b59b6&color_dots=#34495e,#8e44ad,#9b59b6,#d2b4de,#f3e5f5
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f1c40f
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
