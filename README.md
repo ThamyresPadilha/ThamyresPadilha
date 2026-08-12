@@ -4,13 +4,6 @@
 
 ### Desenvolvedora em Formação · Ciência e Análise de Dados
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Python+%E2%80%A2+Pandas+%E2%80%A2+SQL+%E2%80%A2+Visualiza%C3%A7%C3%A3o+de+Dados;Transformando+dados+em+insights+valiosos;Análise+de+Dados+%E2%86%92+Ciência+de+Dados"
-  alt="Thamyres Padilha - Data Science"
-/>
-
-<br/>
-
 Trilhando minha jornada na tecnologia para transformar  
 **dados complexos em decisões inteligentes.**
 
@@ -54,7 +47,6 @@ Busco evoluir continuamente minhas habilidades analíticas e técnicas para solu
   src="https://skillicons.dev/icons?i=python,pythontensorflow&theme=dark"
   alt="Python"
 />
-<!-- Se preferir usar badges limpos de bibliotecas, mantemos o padrão visual profissional -->
 
 <br/><br/>
 
@@ -71,7 +63,38 @@ Busco evoluir continuamente minhas habilidades analíticas e técnicas para solu
 
 ---
 
-## 🐍 Minha Atividade
+## 📊 GitHub Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=ThamyresPadilha&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=22D3EE&currStreakLabel=22D3EE"
+  alt="GitHub Streak de Thamyres Padilha"
+/>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ThamyresPadilha&bg_color=0D1117&color=C9D1D9&line=818CF8&point=22D3EE&area=true&hide_border=true"
+  width="100%"
+  alt="Gráfico de atividade GitHub de Thamyres Padilha"
+/>
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribuições
 
 <div align="center">
 
