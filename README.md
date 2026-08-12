@@ -32,12 +32,13 @@ Estou trilhando minha jornada na tecnologia, aprendendo a transformar dados em i
 
 ### 📬 Conecte-se comigo
 <div align="center">
-  <a href="https://github.com/ThamyresPadilha" target="_blank">
+  <a href="https://github.com/thamyrespadilha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/thamyrespadilha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:thamyrescarrari@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
-## 📬 Como me encontrar:
-- [Meu LinkedIn](www.linkedin.com/in/thamyrespadilha)
