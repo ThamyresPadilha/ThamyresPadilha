@@ -2,7 +2,7 @@
 
 # Thamyres Padilha
 
-### Desenvolvedora em Formação · Ciência e Análise de Dados
+### Engenheira de Software em Formação · Ciência e Análise de Dados
 
 Trilhando minha jornada na tecnologia para transformar  
 **dados complexos em decisões inteligentes.**
