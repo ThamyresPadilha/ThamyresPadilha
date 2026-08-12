@@ -32,4 +32,4 @@ Sou uma desenvolvedora em formação, focada em Ciência de Dados e Análise de 
 ---
 
 ## 📬 Como me encontrar:
-- [Meu LinkedIn](github.com/thamyrespadilha)
+- [Meu LinkedIn](https://linkedin.com)
