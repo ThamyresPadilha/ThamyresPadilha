@@ -1,44 +1,123 @@
 <div align="center">
-  <h1>Olá, eu sou Thamyres Padilha! 👋</h1>
-  <p><b>Desenvolvedora em formação | Focada em Ciência de Dados e Análise de Dados</b></p>
+
+# Thamyres Padilha
+
+### Desenvolvedora em Formação · Ciência e Análise de Dados
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Python+%E2%80%A2+Pandas+%E2%80%A2+SQL+%E2%80%A2+Visualiza%C3%A7%C3%A3o+de+Dados;Transformando+dados+em+insights+valiosos;Análise+de+Dados+%E2%86%92+Ciência+de+Dados"
+  alt="Thamyres Padilha - Data Science"
+/>
+
+<br/>
+
+Trilhando minha jornada na tecnologia para transformar  
+**dados complexos em decisões inteligentes.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/thamyrespadilha">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=818CF8" />
+</a>
+<a href="mailto:thamyrescarrari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
+</a>
+<a href="https://github.com/thamyrespadilha">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=818CF8" />
+</a>
+
 </div>
 
----
-
-### 🚀 Sobre mim
-Estou trilhando minha jornada na tecnologia, aprendendo a transformar dados em insights valiosos. Aqui você pode acompanhar um pouco dos meus estudos e projetos!
+<br/>
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+## 👨‍💻 Sobre mim
+
+Sou **desenvolvedora em formação**, focada nas áreas de **Ciência de Dados e Análise de Dados**. 
+
+Atualmente concentro meus estudos no ecossistema de dados, trabalhando principalmente com **Python (Pandas, Matplotlib, Seaborn) e SQL**, além do uso de **Git e GitHub** para controle de versão dos meus projetos.
+
+Busco evoluir continuamente minhas habilidades analíticas e técnicas para solucionar problemas reais através de dados.
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+### Análise & Dados
+
+<img
+  src="https://skillicons.dev/icons?i=python,pythontensorflow&theme=dark"
+  alt="Python"
+/>
+<!-- Se preferir usar badges limpos de bibliotecas, mantemos o padrão visual profissional -->
+
+<br/><br/>
+
+### Ferramentas & Controle de Versão
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
+  alt="Git, GitHub e VS Code"
+/>
+
 </div>
 
----
-
-### 🐍 Minha Atividade Recente
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThamyresPadilha/ThamyresPadilha/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
+<br/>
 
 ---
 
-### 📬 Conecte-se comigo
+## 🐍 Minha Atividade
+
 <div align="center">
-  <a href="https://github.com/thamyrespadilha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thamyrespadilha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thamyrescarrari@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ThamyresPadilha/ThamyresPadilha/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ThamyresPadilha/ThamyresPadilha/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação das contribuições GitHub de Thamyres Padilha"
+    src="https://raw.githubusercontent.com/ThamyresPadilha/ThamyresPadilha/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+## 🤝 Vamos conversar?
+
+<div align="center">
+
+Estou aberta a oportunidades e conexões na área de **Dados**.
+
+<br/>
+
+<a href="mailto:thamyrescarrari@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thamyrespadilha">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=818CF8"/>
+</a>
+
+<a href="https://github.com/thamyrespadilha">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+
+<br/><br/>
+
+### `Analyze • Learn • Build • Improve`
+
 </div>
