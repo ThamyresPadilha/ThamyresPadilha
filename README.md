@@ -14,10 +14,9 @@ Sou uma desenvolvedora em formação, focada em Ciência de Dados e Análise de 
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThamyresPadilha&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamyresPadilha&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThamyresPadilha&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamyresPadilha&layout=compact&theme=radical" />
 </p>
-
 ---
 
 ## 🐍 Minha Atividade Recente
