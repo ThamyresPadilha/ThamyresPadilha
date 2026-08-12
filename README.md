@@ -27,7 +27,7 @@ Trilhando minha jornada na tecnologia para transformar
 
 ## 👨‍💻 Sobre mim
 
-Sou **desenvolvedora em formação**, focada nas áreas de **Ciência de Dados e Análise de Dados**. 
+Sou **engenheira de software**, focada nas áreas de **Ciência de Dados e Análise de Dados**. 
 
 Atualmente concentro meus estudos no ecossistema de dados, trabalhando principalmente com **Python (Pandas, Matplotlib, Seaborn) e SQL**, além do uso de **Git e GitHub** para controle de versão dos meus projetos.
 
